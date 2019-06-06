@@ -1,4 +1,4 @@
-const apiKey = process.env.REACT_APP_YELP_API_KEY;
+const apiKey = "V5rZ7ul5pHcSFDAon4yLv_RVNLK3Y2rmcGSEmkmL5YMKbTRmoGNVfyfD-a_iV8Id2JSQA3lkFs5CM6ulTeXcp3vDelFIFPH9eoRIZE5mDPHxSbm-et6t36_M3affXHYx"
 
 // const browserHeader = { headers: { Authorization: `Bearer ${apiKey}` } };
 
